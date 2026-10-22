@@ -1,0 +1,178 @@
+﻿[
+    {
+        "page":  277,
+        "source":  "IMG_0042.png",
+        "file":  "figure12-01.png",
+        "rect":  [
+                     390,
+                     305,
+                     1220,
+                     950
+                 ]
+    },
+    {
+        "page":  278,
+        "source":  "IMG_0043.png",
+        "file":  "figure12-02.png",
+        "rect":  [
+                     495,
+                     300,
+                     1150,
+                     1495
+                 ]
+    },
+    {
+        "page":  279,
+        "source":  "IMG_0044.png",
+        "file":  "figure12-03.png",
+        "rect":  [
+                     480,
+                     1530,
+                     1180,
+                     2130
+                 ]
+    },
+    {
+        "page":  280,
+        "source":  "IMG_0045.png",
+        "file":  "figure12-04.png",
+        "rect":  [
+                     550,
+                     1780,
+                     1095,
+                     2130
+                 ]
+    },
+    {
+        "page":  281,
+        "source":  "IMG_0046.png",
+        "file":  "box12-01.png",
+        "rect":  [
+                     230,
+                     310,
+                     1435,
+                     1565
+                 ]
+    },
+    {
+        "page":  281,
+        "source":  "IMG_0046.png",
+        "file":  "steps-p281.png",
+        "rect":  [
+                     240,
+                     1685,
+                     1460,
+                     2140
+                 ]
+    },
+    {
+        "page":  282,
+        "source":  "IMG_0047.png",
+        "file":  "steps-p282.png",
+        "rect":  [
+                     240,
+                     310,
+                     1460,
+                     800
+                 ]
+    },
+    {
+        "page":  284,
+        "source":  "IMG_0049.png",
+        "file":  "figure12-05.png",
+        "rect":  [
+                     245,
+                     305,
+                     1400,
+                     1385
+                 ]
+    },
+    {
+        "page":  286,
+        "source":  "IMG_0051.png",
+        "file":  "figure12-06.png",
+        "rect":  [
+                     215,
+                     300,
+                     1420,
+                     1190
+                 ]
+    },
+    {
+        "page":  287,
+        "source":  "IMG_0052.png",
+        "file":  "figure12-07.png",
+        "rect":  [
+                     420,
+                     305,
+                     1220,
+                     1025
+                 ]
+    },
+    {
+        "page":  289,
+        "source":  "IMG_0054.png",
+        "file":  "figure12-08.png",
+        "rect":  [
+                     335,
+                     305,
+                     1300,
+                     1145
+                 ]
+    },
+    {
+        "page":  289,
+        "source":  "IMG_0054.png",
+        "file":  "figure12-09.png",
+        "rect":  [
+                     210,
+                     1170,
+                     1450,
+                     2130
+                 ]
+    },
+    {
+        "page":  292,
+        "source":  "IMG_0057.png",
+        "file":  "table12-01.png",
+        "rect":  [
+                     180,
+                     210,
+                     1505,
+                     2100
+                 ]
+    },
+    {
+        "page":  294,
+        "source":  "IMG_0059.png",
+        "file":  "figure12-10.png",
+        "rect":  [
+                     560,
+                     760,
+                     1075,
+                     1610
+                 ]
+    },
+    {
+        "page":  295,
+        "source":  "IMG_0060.png",
+        "file":  "figure12-11.png",
+        "rect":  [
+                     505,
+                     310,
+                     1135,
+                     1285
+                 ]
+    },
+    {
+        "page":  297,
+        "source":  "IMG_0062.png",
+        "file":  "figure12-12.png",
+        "rect":  [
+                     230,
+                     310,
+                     1410,
+                     1285
+                 ]
+    }
+]
